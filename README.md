@@ -3,7 +3,7 @@
 This is a simple **Rock Paper Scissors** game built with JavaScript.  
 The game lets the user play against the computer for **5 rounds**, and declares the final winner based on the score.
 
-✅ Built as the first JavaScript project of the **Foundations Path** in [The Odin Project](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
+✅ Built as the first JavaScript project of the **Foundations Path** in [The Odin Project](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors).
 
 ## 🔗 Live Preview
 
