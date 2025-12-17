@@ -7,7 +7,7 @@ The game lets the user play against the computer until one reaches 5 points, and
 
 ## 🔗 Live Preview
 
-[Click here to play the game]()
+[Click here to play the game](https://rj23dev.github.io/Rock-Paper-Scissors/)
 
 ## Features
 
